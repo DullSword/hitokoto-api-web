@@ -1,21 +1,13 @@
 # hitokoto-api-web
 
-> hitokoto api test web
+[一言（Hitokoto）](https://hitokoto.cn/) 语句接口在线测试
 
-## Build Setup
+![hitokoto](/static/hitokoto.png)
 
-``` bash
-# install dependencies
-npm install
+## 在线体验
 
-# serve with hot reload at localhost:8080
-npm run dev
+[hitokoto-api-web](https://dullsword.github.io/hitokoto-api-web/)
 
-# build for production with minification
-npm run build
+## 鸣谢
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+感谢 [一言（Hitokoto）](https://hitokoto.cn/) 提供的 API 。
